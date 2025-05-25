@@ -55,10 +55,13 @@ class AdicionalQuestion(tk.Frame):
     def update_scene(self):
         """Actualiza los widgets con los datos actuales de cfg."""
         # Actualizar el nombre
-        # self.name_label.config(text=f"Acaso este sitio... {cfg.adition_condition}")
-        # clave = (cfg.genero, cfg.obstaculo1, cfg.obstaculo2, cfg.campo, cfg.rol)
-        # preguntas = cfg.respuestas.get(clave, [])
+        self.name_label.config(text=f"Acaso ... {cfg.adition_condition}")
         clave = (cfg.genero, cfg.obstaculo1, cfg.obstaculo2, cfg.campo, cfg.rol)
+        preguntas = cfg.respuestas.get(clave, [])
+        if preguntas and cfg.contador < len(preguntas):
+            self.name_label.config(text=preguntas[cfg.contador])
+        else:
+            self.name_label.config(text="Sin preguntas adicionales")
         perfil = next((p for p in perfiles
                        if (p["genero"], p["obstaculo1"], p["obstaculo2"],
                            p["campo"], p["rol"]) == clave), None)
@@ -130,7 +133,7 @@ class AdicionalQuestion(tk.Frame):
             
 
     def second_search(self):
-        # primero busca el perfil base en la lista JSON
+        # Busca SOLO el perfil que tenga aditional_questions (es decir, el "más específico")
         perfil = next((
             p for p in perfiles
             if p["genero"]     == cfg.genero
@@ -138,15 +141,24 @@ class AdicionalQuestion(tk.Frame):
             and p["obstaculo2"] == cfg.obstaculo2
             and p["campo"]      == cfg.campo
             and p["rol"]        == cfg.rol
+            and p.get("aditional_questions")  # el que tienen preguntas extra
         ), None)
 
         if not perfil:
-            return self.controller.show_frame("Adquisicion1")
+            # Si por algún motivo no lo encuentra, busca el base
+            perfil = next((
+                p for p in perfiles
+                if p["genero"]     == cfg.genero
+                and p["obstaculo1"] == cfg.obstaculo1
+                and p["obstaculo2"] == cfg.obstaculo2
+                and p["campo"]      == cfg.campo
+                and p["rol"]        == cfg.rol
+            ), None)
+            if not perfil:
+                return self.controller.show_frame("Adquisicion1")
 
-        # si existe, carga siempre estos 3 campos
         cfg.nombre      = perfil["name"]
         cfg.path_image  = perfil["image"]
         cfg.descripcion = perfil.get("descripcion","")
 
-        # y saltas directo a Answer
         return self.controller.show_frame("Answer")

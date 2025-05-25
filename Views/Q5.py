@@ -72,6 +72,7 @@ class Scene5(tk.Frame):
         if perfil:
             cfg.respuestas = { clave: perfil["aditional_questions"] }
             cfg.contador   = 0
+            cfg.adition_condition = perfil["aditional_questions"][0]  # nuevok
             return self.controller.show_frame("AdicionalQuestion")
 
         # 2️ Si no, buscamos el perfil base
