@@ -1,4 +1,4 @@
-# Expert System for Archaeological Site Detection
+# Expert System for Inclusion 
 
 ## Overview
 This project is an **Expert System** designed to identify people with achievement even thought they had some problems, based on user-provided characteristics. The system uses a predefined dictionary to match input data to known people and can handle new entries if no matches are found. 
