@@ -50,16 +50,13 @@
     "descripcion": "Hijo de trabajadores agrícolas migrantes, pasó infancia en campos de cultivo. A pesar de barreras económicas y lingüísticas, se formó como ingeniero electrotécnico y llegó a astronauta de la NASA, volando en la misión STS-128"
   },
   {
-    "genero": "Femenino",
-    "obstaculo1": "Condición médica",
-    "obstaculo2": "Ceguera",
-    "campo": "Artes",
-    "rol": "Cantante",
-    "name": "Random3",
-    "image": "imagenes\\random2.jpg",
-    "descripcion": "Randommm333",
-    "aditional_questions": [
-      "Algo random"
-    ]
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Pelé",
+    "image": "imagenes\\pele.jpg",
+    "descripcion": "Considerado uno de los mejores futbolistas de la historia, Pelé enfrentó discriminación racial en Brasil durante su juventud pero se convirtió en un ícono global del deporte."
   }
 ]

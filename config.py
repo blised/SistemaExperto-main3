@@ -1,16 +1,17 @@
 
 campos = {
-    "Ciencias": ["Informatico", "Filosofo", "Matemático", "Biologo", "Quimico", "Astronauta"],
-    "Artes": ["Escritor", "Cantante", "Pintor", "Compositor", "Actor"],
-    "Deportes": ["Futbolista", "Tenista", "Golfista", "Atleta", "Peleador"],
+    "Ciencias": ["Matemático", "Fisico", "Quimico"],
+    "Artes": ["Escritor", "Cantante", "Actor"],
+    "Deportes": ["Futbolista", "Atleta", "Peleador"],
 }
 
 sufrio = {
-    "Exclusión social": ["Discriminación", "Marginacion", "Estigmatizacion", 
-                         "Racismo", "Genero", "Por Religion", 
-                         "Orientacion Sexual"],
-    "Condición médica": ["Sordera", "Ceguera", 
-                         "Enanismo", "Trastorno", "Espectro Autista",
+    "Exclusión social": ["Discriminación", 
+                         "Racismo", 
+                         "Genero/LGBTQIA+", 
+                         ],
+    "Condición médica": ["Enanismo", 
+                         "Trastorno",
                          "Sin extremidad/es"]
 }
 

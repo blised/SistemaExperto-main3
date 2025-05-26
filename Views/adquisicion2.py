@@ -92,6 +92,10 @@ class Adquisicion2(tk.Frame):
                                 command=self.cancel)
         nav_button3.grid(row=12, column=2, pady=20, padx=10, sticky="w")
 
+        self.nav_button = tk.Button(self, text="Home", font=("Arial", 14), bg="white", width=5, relief="solid",
+                                    command=self.first_scene)
+        self.nav_button.grid(row=16, column=2, pady=20, padx=10, sticky="w")
+
     def upload_image(self):
         """Abrir un diálogo para seleccionar una imagen."""
         file_path = filedialog.askopenfilename(filetypes=[("Imagenes", "*.png;*.jpg;*.jpeg;*.gif")])
@@ -173,3 +177,8 @@ class Adquisicion2(tk.Frame):
         self.image_path = None
         self.question_entry.delete(0, tk.END)
         self.controller.show_frame("Adquisicion2")
+
+    def first_scene(self):
+        """Cambiar a la primera escena."""
+        print("Navegar a la primera escena")
+        self.controller.show_frame("Main")

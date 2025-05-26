@@ -24,11 +24,11 @@ class Answer(tk.Frame):
 
 
         #botones de navegacion
-        self.nav_button = tk.Button(self, text="<-", font=("Arial", 14), width=5, bg='#8b7d68',
+        self.nav_button = tk.Button(self, text="<<", font=("Arial", 14), width=5, bg='#8b7d68',
                                     command=self.previous_scene)
         self.nav_button.grid(row=3, column=0, pady=20, sticky="e")
 
-        self.nav_button = tk.Button(self, text="<<", font=("Arial", 14), width=5, bg='#8b7d68',
+        self.nav_button = tk.Button(self, text="Home", font=("Arial", 14), width=5, bg='#8b7d68',
                                     command=self.first_scene)
         self.nav_button.grid(row=3, column=1, pady=20)
         

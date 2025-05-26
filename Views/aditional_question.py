@@ -43,7 +43,7 @@ class AdicionalQuestion(tk.Frame):
         nav_button1 = tk.Button(self, text="<<", font=("Arial", 14), width=5, bg='#8b7d68',
                                 command=self.previous_scene)
         nav_button1.grid(row=4, column=0, padx=10,pady=20, sticky="e")
-        nav_button2 = tk.Button(self, text="INICIO", font=("Arial", 14), width=5, bg='#8b7d68',
+        nav_button2 = tk.Button(self, text="Home", font=("Arial", 14), width=5, bg='#8b7d68',
                                 command=self.first_scene)
         nav_button2.grid(row=4, column=1, padx=10,pady=20, sticky="w")
 
@@ -97,7 +97,7 @@ class AdicionalQuestion(tk.Frame):
             cfg.adition_condition=cfg.respuestas[clave][cfg.contador]
             self.controller.show_frame("AdicionalQuestion")
         else:
-            self.controller.show_frame("Scene4")
+            self.controller.show_frame("Scene5")
 
     def next_question(self):
         """Navegar a la siguiente pregunta."""
