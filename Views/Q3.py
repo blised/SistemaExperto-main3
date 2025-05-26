@@ -64,7 +64,7 @@ class Scene3(tk.Frame):
                                 command=self.previous_scene)
         nav_button1.grid(row=row + 1, column=0, padx=10, pady=20, sticky="e")
         self.dynamic_buttons.append(nav_button1)
-        nav_button2 = tk.Button(self, text="X", font=("Arial", 14), width=5, bg='#8b7d68',
+        nav_button2 = tk.Button(self, text="INICIO", font=("Arial", 14), width=5, bg='#8b7d68',
                                 command=self.first_scene)
         nav_button2.grid(row=row + 1, column=1, padx=10, pady=20, sticky="w")
         self.dynamic_buttons.append(nav_button2)

@@ -36,14 +36,14 @@ class AdicionalQuestion(tk.Frame):
         self.false_button.grid(row=2, column=0, padx=10, pady=10)
 
 
-        self.nav_button = tk.Button(self, text="RETURN", font=("Arial", 14), width=10, bg='#8b7d68',
-                                    command=self.first_scene)
-        self.nav_button.grid(row=3, column=0, columnspan=2, pady=20)
+        # self.nav_button = tk.Button(self, text="RETURN", font=("Arial", 14), width=10, bg='#8b7d68',
+        #                             command=self.first_scene)
+        # self.nav_button.grid(row=3, column=0, columnspan=2, pady=20)
 
         nav_button1 = tk.Button(self, text="<<", font=("Arial", 14), width=5, bg='#8b7d68',
                                 command=self.previous_scene)
         nav_button1.grid(row=4, column=0, padx=10,pady=20, sticky="e")
-        nav_button2 = tk.Button(self, text="X", font=("Arial", 14), width=5, bg='#8b7d68',
+        nav_button2 = tk.Button(self, text="INICIO", font=("Arial", 14), width=5, bg='#8b7d68',
                                 command=self.first_scene)
         nav_button2.grid(row=4, column=1, padx=10,pady=20, sticky="w")
 

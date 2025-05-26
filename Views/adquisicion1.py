@@ -79,6 +79,10 @@ class Adquisicion1(tk.Frame):
                                 command=self.cancel)
         nav_button3.grid(row=12, column=2, pady=20, padx=10, sticky="w")
 
+        self.nav_button = tk.Button(self, text="Home", font=("Arial", 14), bg="white", width=5, relief="solid",
+                                    command=self.first_scene)
+        self.nav_button.grid(row=16, column=2, pady=20, padx=10, sticky="w")
+
     def upload_image(self):
         """Abrir un diálogo para seleccionar una imagen."""
         file_path = filedialog.askopenfilename(filetypes=[("Imagenes", "*.png;*.jpg;*.jpeg;*.gif")])
@@ -95,7 +99,7 @@ class Adquisicion1(tk.Frame):
     def previous_scene(self):
         """Cambiar a la escena anterior."""
         print("Navegar a la escena anterior")
-        self.controller.show_frame("Scene1")
+        self.controller.show_frame("Scene5")
 
     def submit_data(self):
         """Obtener los datos de los inputs y mostrar un mensaje."""
@@ -150,3 +154,8 @@ class Adquisicion1(tk.Frame):
         self.descripcion_text_widget.delete("1.0", tk.END)
         self.image_path = None
         self.controller.show_frame("Adquisicion1")
+
+    def first_scene(self):
+        """Cambiar a la primera escena."""
+        print("Navegar a la primera escena")
+        self.controller.show_frame("Main")

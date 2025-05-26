@@ -32,11 +32,9 @@ class Answer(tk.Frame):
                                     command=self.first_scene)
         self.nav_button.grid(row=3, column=1, pady=20)
         
-        self.nav_button = tk.Button(self, text="(!)", font=("Arial", 14), width=5, bg='#8b7d68',
+        self.nav_button = tk.Button(self, text="Add", font=("Arial", 14), width=5, bg='#8b7d68',
                                     command=self.append_adquisicion)
         self.nav_button.grid(row=3, column=2, pady=20, sticky="w")
-
-        
 
     def update_scene(self):
         """Actualiza los widgets con los datos actuales de cfg."""
