@@ -34,4 +34,4 @@ This project is an **Expert System** designed to identify people with achievemen
 1. Install Python (version 3.8 or later is recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/GabrielManzanilla/SistemaExperto.git
+   git clone https://github.com/blised/SistemaExperto-main3.git
