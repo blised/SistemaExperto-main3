@@ -1,7 +1,7 @@
 # Expert System for Archaeological Site Detection
 
 ## Overview
-This project is an **Expert System** designed to identify archaeological sites in Mexico based on user-provided characteristics. The system uses a predefined dictionary to match input data to known archaeological sites and can handle new entries if no matches are found. 
+This project is an **Expert System** designed to identify people with achievement even thought they had some problems, based on user-provided characteristics. The system uses a predefined dictionary to match input data to known people and can handle new entries if no matches are found. 
 
 ## Features
 - Identify people how succed on something sites based on:
