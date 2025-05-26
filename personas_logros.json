@@ -1,6 +1,6 @@
 [
   {
-    "genero": "Mujer",
+    "genero": "Femenino",
     "obstaculo1": "Condición médica",
     "obstaculo2": "Sin extremidad/es",
     "campo": "Deportes",
@@ -10,7 +10,7 @@
     "descripcion": "Superó polio y ganó 3 oros en Roma 1960."
   },
   {
-    "genero": "Mujer",
+    "genero": "Femenino",
     "obstaculo1": "Condición médica",
     "obstaculo2": "Ceguera",
     "campo": "Artes",
@@ -20,7 +20,7 @@
     "descripcion": "random"
   },
   {
-    "genero": "Mujer",
+    "genero": "Femenino",
     "obstaculo1": "Exclusión social",
     "obstaculo2": "Discriminación",
     "campo": "Ciencias",
@@ -30,9 +30,9 @@
     "descripcion": "INFO."
   },
   {
-    "genero": "Hombre",
+    "genero": "Masculino",
     "obstaculo1": "Condición médica",
-    "obstaculo2": "Enanismos",
+    "obstaculo2": "Enanismo",
     "campo": "Deportes",
     "rol": "Futbolista",
     "name": "Messi",
@@ -40,7 +40,7 @@
     "descripcion": "INFO."
   },
   {
-    "genero": "Hombre",
+    "genero": "Masculino",
     "obstaculo1": "Exclusión social",
     "obstaculo2": "Discriminación",
     "campo": "Ciencias",
@@ -50,7 +50,7 @@
     "descripcion": "Hijo de trabajadores agrícolas migrantes, pasó infancia en campos de cultivo. A pesar de barreras económicas y lingüísticas, se formó como ingeniero electrotécnico y llegó a astronauta de la NASA, volando en la misión STS-128"
   },
   {
-    "genero": "Mujer",
+    "genero": "Femenino",
     "obstaculo1": "Condición médica",
     "obstaculo2": "Ceguera",
     "campo": "Artes",

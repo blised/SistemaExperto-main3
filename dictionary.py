@@ -10,7 +10,7 @@ DATA_FILE = 'personas_logros.json'
 #     perfiles = [
 #         # Opcional: perfiles “de fábrica”
 #         {
-#             "genero": "Mujer",
+#             "genero": "Femenino",
 #             "obstaculo1": "Condición médica",
 #             "obstaculo2": "Sin extremidad/es",
 #             "campo": "Deportes",
@@ -28,7 +28,7 @@ else:
     perfiles = [
         # …tus perfiles “de fábrica”…
         {
-            "genero": "Mujer",
+            "genero": "Femenino",
             "obstaculo1": "Condición médica",
             "obstaculo2": "Sin extremidad/es",
             "campo": "Deportes",
@@ -56,6 +56,6 @@ personas_logros = {
 }
 
 personas_logros = {
-    ("Hombre", "Condición médica", "Enanismo", "Deportes", "Futbolista"): ("Messi", "imagenes/Futbolista/mesi.jpg", "INFO"),
-    ("Mujer", "Exclusión social", "Discriminación", "Ciencias", "Matemático"): ("Katherine Johnson", "imagenes/Matematico/katheri.jpg", "INFO"),
+    ("Masculino", "Condición médica", "Enanismo", "Deportes", "Futbolista"): ("Messi", "imagenes/Futbolista/mesi.jpg", "INFO"),
+    ("Femenino", "Exclusión social", "Discriminación", "Ciencias", "Matemático"): ("Katherine Johnson", "imagenes/Matematico/katheri.jpg", "INFO"),
 }

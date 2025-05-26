@@ -26,14 +26,24 @@ class Scene3(tk.Frame):
             print(f"Error al cargar la imagen: {e}")
         self.image_label.grid(row=0, column=0, columnspan=3, pady=10)
         
-        question_label = tk.Label(self, text="¿A qué se dedicó principalmente?", font=("Arial", 14), bg='#D9C3A0', wraplength=490)
-        question_label.grid(row=1, column=0, columnspan=2, pady=10)
-        
-
-        
+        # Guardamos el label en self para poder actualizarlo luego
+        self.question_label = tk.Label(self, text="", font=("Arial", 14), bg='#D9C3A0', wraplength=490)
+        self.question_label.grid(row=1, column=0, columnspan=2, pady=10) 
 
     def update_scene(self):
         """Actualiza los botones dinámicamente basados en `cfg.cultura`."""
+
+        match cfg.obstaculo1:
+            case "Exclusión social":
+                question_text = "¿Porque era excluido socialmente?"
+            case "Condición médica":
+                question_text = "¿Qué condición médica padecía?"
+            case _:
+                question_text = "¿Qué obstáculo enfrentaba?"
+
+        # Actualiza el label con el texto correcto
+        self.question_label.config(text=question_text)
+
         for button in self.dynamic_buttons:
             button.destroy()  # Elimina los botones previos
 

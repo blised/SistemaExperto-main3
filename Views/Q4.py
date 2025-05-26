@@ -25,7 +25,7 @@ class Scene4(tk.Frame):
             print(f"Error al cargar la imagen: {e}")
         self.image_label.grid(row=0, column=0, columnspan=3, pady=10)
         # Título con la pregunta
-        question_label = tk.Label(self, text="¿Cuál es el campo de la persona?",
+        question_label = tk.Label(self, text="¿Cuál es el campo donde se desarrolló la persona?",
                                   font=("Arial", 14), bg='#D9C3A0')
         question_label.grid(row=1, column=0, columnspan=2, padx=10, pady=10, sticky="n")
 

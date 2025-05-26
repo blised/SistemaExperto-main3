@@ -14,7 +14,7 @@ sufrio = {
                          "Sin extremidad/es"]
 }
 
-generos = ["Hombre", "Mujer"]
+generos = ["Masculino", "Femenino"]
 
 respuestas={
 	#("Maya","Yucatán","Meseta","Pirámides"): ["Pertenece a ruta Puc"]

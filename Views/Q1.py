@@ -25,7 +25,7 @@ class Scene1(tk.Frame):
         self.image_label.grid(row=0, column=0, columnspan=3, pady=10)
 
         # Título con la pregunta
-        question_label = tk.Label(self, text=f"¿Cual es el genero de la persona?",
+        question_label = tk.Label(self, text=f"¿Cuál es el género de la persona?",
                                   font=("Arial", 14), bg='#D9C3A0', wraplength=490)
         question_label.grid(row=1, column=0, columnspan=2, pady=10)
 

@@ -26,7 +26,7 @@ class Scene2(tk.Frame):
             print(f"Error al cargar la imagen: {e}")
         self.image_label.grid(row=0, column=0, columnspan=3, pady=10)
         # Título con la pregunta
-        question_label = tk.Label(self, text="¿Fue excluido socialmente o tenia algo (medicamente)?",
+        question_label = tk.Label(self, text="¿La persona era excluido socialmente \n o \n padecía medicamente algo?",
                                   font=("Arial", 14), bg='#D9C3A0')
         question_label.grid(row=1, column=0, columnspan=2, padx=10, pady=10, sticky="n")
 
