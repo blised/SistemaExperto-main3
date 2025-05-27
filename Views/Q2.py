@@ -15,7 +15,7 @@ class Scene2(tk.Frame):
         self.image_label = tk.Label(self, bg='#D9C3A0')
         try:
             # Abrir y redimensionar la imagen con Pillow
-            image = Image.open(f"assets/alux-question.png")
+            image = Image.open(f"assets/bot11.png")
             image = image.resize((253, 300))  # Ajusta el tamaño de la imagen
             photo = ImageTk.PhotoImage(image)
 

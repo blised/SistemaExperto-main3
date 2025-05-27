@@ -73,7 +73,7 @@ class Answer(tk.Frame):
     def previous_scene(self):
         """Cambiar a la escena anterior."""
         print("Navegar a la escena anterior")
-        self.controller.show_frame("Scene4")
+        self.controller.show_frame("Scene5")
 
     def append_adquisicion(self):
         """Navegar a la primera escena."""

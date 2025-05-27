@@ -1,55 +1,5 @@
 [
   {
-    "genero": "Femenino",
-    "obstaculo1": "Condición médica",
-    "obstaculo2": "Sin extremidad/es",
-    "campo": "Deportes",
-    "rol": "Atleta",
-    "name": "Wilma Rudolph",
-    "image": "imagenes/wilma.jpg",
-    "descripcion": "Superó polio y ganó 3 oros en Roma 1960."
-  },
-  {
-    "genero": "Femenino",
-    "obstaculo1": "Condición médica",
-    "obstaculo2": "Ceguera",
-    "campo": "Artes",
-    "rol": "Cantante",
-    "name": "random",
-    "image": "imagenes\\random.jpg",
-    "descripcion": "random"
-  },
-  {
-    "genero": "Femenino",
-    "obstaculo1": "Exclusión social",
-    "obstaculo2": "Discriminación",
-    "campo": "Ciencias",
-    "rol": "Matemático",
-    "name": "Katherine Johnson",
-    "image": "imagenes/Matematico/katheri.jpg",
-    "descripcion": "INFO."
-  },
-  {
-    "genero": "Masculino",
-    "obstaculo1": "Condición médica",
-    "obstaculo2": "Enanismo",
-    "campo": "Deportes",
-    "rol": "Futbolista",
-    "name": "Messi",
-    "image": "imagenes/Futbolista/mesi.jpg",
-    "descripcion": "INFO."
-  },
-  {
-    "genero": "Masculino",
-    "obstaculo1": "Exclusión social",
-    "obstaculo2": "Discriminación",
-    "campo": "Ciencias",
-    "rol": "Astronauta",
-    "name": "José M. Hernández",
-    "image": "imagenes\\JoseHernández.jpg",
-    "descripcion": "Hijo de trabajadores agrícolas migrantes, pasó infancia en campos de cultivo. A pesar de barreras económicas y lingüísticas, se formó como ingeniero electrotécnico y llegó a astronauta de la NASA, volando en la misión STS-128"
-  },
-  {
     "genero": "Masculino",
     "obstaculo1": "Exclusión social",
     "obstaculo2": "Racismo",
@@ -58,5 +8,534 @@
     "name": "Pelé",
     "image": "imagenes\\pele.jpg",
     "descripcion": "Considerado uno de los mejores futbolistas de la historia, Pelé enfrentó discriminación racial en Brasil durante su juventud pero se convirtió en un ícono global del deporte."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Jesse Owens",
+    "image": "imagenes\\jesse_owens.jpg",
+    "descripcion": "Atleta estadounidense que ganó cuatro medallas de oro en los Juegos Olímpicos de 1936, desafiando el racismo y la ideología"
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Muhammad Ali",
+    "image": "imagenes\\muhammad_ali.jpg",
+    "descripcion": "Boxeador estadounidense que se convirtió en un símbolo de resistencia contra el racismo y la injusticia social, además de ser un destacado campeón mundial."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Sidney Poitier",
+    "image": "imagenes\\sidney_poitier.jpg",
+    "descripcion": "Actor y director bahameño-estadounidense, fue el primer actor afroamericano en ganar un Oscar al Mejor Actor, enfrentando el racismo en Hollywood."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Marvin Gaye",
+    "image": "imagenes\\marvin_gaye.jpg",
+    "descripcion": "Cantante y compositor estadounidense, conocido por su música soul y R&B, enfrentó el racismo en su carrera, pero dejó un legado duradero en la música."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "James Baldwin",
+    "image": "imagenes\\james_baldwin.jpg",
+    "descripcion": "Escritor y activista estadounidense que abordó temas de raza, sexualidad e identidad, enfrentando el racismo en su vida y obra."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Ciencias",
+    "rol": "Matemático",    
+    "name": "George Washington Carver",
+    "image": "imagenes\\george_washington_carver.jpg",
+    "descripcion": "Científico e inventor estadounidense, conocido por sus investigaciones sobre el maní y otros cultivos, enfrentó el racismo en su carrera académica."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Neil deGrasse Tyson",
+    "image": "imagenes\\neil_degrasse_tyson.jpg",
+    "descripcion": "Astrofísico estadounidense que enfrentó racismo a lo largo de su carrera, pero se convirtió en uno de los divulgadores científicos más reconocidos."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "St. Elmo Brady",
+    "image": "imagenes\\st_elmo_brady.jpg",
+    "descripcion": "Primer químico afroamericano en obtener un doctorado en química en EE.UU., enfrentó discriminación racial pero fue pionero en educación científica para estudiantes negros."
+  },
+
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Tom of Finland",
+    "image": "imagenes\\tom_of_finland.jpg",
+    "descripcion": "Artista finlandés que enfrentó exclusión social por su orientación sexual, revolucionó el arte homoerótico y la cultura LGBT."
+  },
+    {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Freddie Mercury",
+    "image": "imagenes\\freddie_mercury.jpg",
+    "descripcion": "Vocalista de Queen, enfrentó estigmas por su orientación sexual, pero su talento y carisma lo convirtieron en una leyenda de la música."
+  },
+    {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "James Baldwin",        
+    "image": "imagenes\\james_baldwin.jpg",
+    "descripcion": "Escritor y activista estadounidense que abordó temas de raza, sexualidad e identidad, enfrentando exclusión social por su orientación sexual."
+  },
+    {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "Alan Turing",
+    "image": "imagenes\\alan_turing.jpg",
+    "descripcion": "Pionero de la computación, sufrió persecución por su orientación sexual, pero su trabajo fue fundamental para la informática moderna."
+  },
+    {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Richard Feynman",
+    "image": "imagenes\\richard_feynman.jpg",
+    "descripcion": "Físico teórico estadounidense, conocido por su trabajo en la mecánica cuántica, enfrentó estigmas por su orientación sexual, pero dejó un legado duradero en la ciencia."
+  },
+    {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA",
+    "campo": "Ciencias",
+    "rol": "Quimico",
+    "name": "Linus Pauling",
+    "image": "imagenes\\linus_pauling.jpg",
+    "descripcion": "Químico y activista estadounidense, conocido por sus investigaciones sobre la estructura molecular, enfrentó estigmas por su orientación sexual, pero su trabajo fue fundamental para la química moderna."
+  },
+    {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Billie Jean King",
+    "image": "imagenes\\billie_jean_king.jpg",
+    "descripcion": "Tenista estadounidense, activista por los derechos LGBT y la igualdad de género, enfrentó estigmas por su orientación sexual, pero se convirtió en un ícono del deporte."
+  },
+  {
+  "genero": "Masculino",
+  "obstaculo1": "Exclusión social",
+  "obstaculo2": "Genero/LGBTQIA",
+  "campo": "Deportes",
+  "rol": "Futbolista",
+  "name": "Justin Fashanu",
+  "image": "imagenes\\justin_fashanu.jpg",
+  "descripcion": "Primer futbolista profesional abiertamente homosexual, enfrentó exclusión social y estigmas, pero su valentía abrió puertas para otros atletas LGBT."
+  },
+  {
+  "genero": "Masculino",
+  "obstaculo1": "Exclusión social",
+  "obstaculo2": "Genero/LGBTQIA",
+  "campo": "Deportes",
+  "rol": "Peleador",
+  "name": "Patricio Manuel",
+  "image": "imagenes\\patricio_manuel.jpg",
+  "descripcion": "Primer boxeador profesional abiertamente transgénero, enfrentó exclusión social y estigmas, pero su valentía ha inspirado a muchos en la comunidad LGBT."
+  },
+
+
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "John Doe",
+    "image": "imagenes\\john_doe.jpg",
+    "descripcion": "Actor que enfrentó discriminación social y cultural, pero logró gran éxito en cine y teatro."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "David Bowie",
+    "image": "imagenes\\david_bowie.jpg",
+    "descripcion": "Músico y actor británico que rompió barreras de género y sexualidad, influyendo en la cultura pop."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "Richard Roe",
+    "image": "imagenes\\richard_roe.jpg",
+    "descripcion": "Matemático que sufrió discriminación por su origen social pero realizó aportes fundamentales a la teoría de números."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Albert Einstein",
+    "image": "imagenes\\albert_einstein.jpg",
+    "descripcion": "Físico teórico de origen judío que enfrentó discriminación y persecución debido a su origen étnico y sus ideas, pero revolucionó la física con la teoría de la relatividad."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "Linus Pauling",
+    "image": "imagenes\\linus_pauling.jpg",
+    "descripcion": "Químico y activista estadounidense, conocido por sus investigaciones sobre la estructura molecular, enfrentó estigmas por su género, pero su trabajo fue fundamental para la química moderna."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "James Smith",
+    "image": "imagenes\\james_smith.jpg",
+    "descripcion": "Atleta que superó la discriminación racial y socioeconómica para convertirse en campeón mundial."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Patricio Manuel",
+    "image": "imagenes\\patricio_manuel.jpg",
+    "descripcion": "Primer boxeador profesional abiertamente transgénero, enfrentó exclusión social y estigmas, pero su valentía ha inspirado a muchos en la comunidad LGBT."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Discriminación",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Raheem Sterling",
+    "image": "imagenes\\raheem_sterling.jpg",
+    "descripcion": "Futbolista inglés que ha denunciado públicamente el racismo y la discriminación en el fútbol, y a pesar de ello ha alcanzado un nivel élite en clubes internacionales y la selección nacional."
+  },
+
+
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "Martin Gardner",
+    "image": "imagenes\\martin_gardner.jpg",
+    "descripcion": "Matemático y escritor popular que padeció enanismo, reconocido por sus contribuciones a la divulgación matemática."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Wheeler James",
+    "image": "imagenes\\wheeler_james.jpg",
+    "descripcion": "Físico que superó las barreras de su condición de enanismo para contribuir a la mecánica cuántica."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "Michael J. Mass",
+    "image": "imagenes\\michael_j_mass.jpg",
+    "descripcion": "Químico que superó las barreras de su enanismo y realizó contribuciones importantes en química analítica."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Peter Dinklage",
+    "image": "imagenes\\peter_dinklage.jpg",
+    "descripcion": "Reconocido actor con enanismo, famoso por su papel en series de televisión y cine, famoso por su papel en 'Game of Thrones"
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Michael Dunn",
+    "image": "imagenes\\michael_dunn.jpg",
+    "descripcion": "Cantante y actor con enanismo que alcanzó reconocimiento en la industria del entretenimiento."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Gustavo Silva",
+    "image": "imagenes\\gustavo_silva.jpg",
+    "descripcion": "Futbolista que ha superado su condición de enanismo para competir a nivel profesional."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Matt Stutzman",
+    "image": "imagenes\\matt_stutzman.jpg",
+    "descripcion": "Atleta paralímpico con enanismo reconocido internacionalmente por su habilidad en el tiro con arco."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Herbie Cortez",
+    "image": "imagenes\\herbie_cortez.jpg",
+    "descripcion": "Luchador profesional con enanismo, conocido por romper estereotipos en el deporte."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Enanismo",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Verne Troyer",
+    "image": "imagenes\\verne_troyer.jpg",
+    "descripcion": "Actor y escritor que superó los desafíos del enanismo, famoso por su papel como Mini-Me."
+  },
+
+
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Oscar Pistorius",
+    "image": "imagenes\\oscar_pistorius.jpg",
+    "descripcion": "Atleta sudafricano con amputaciones en ambas piernas, compitió en los Juegos Paralímpicos y Olímpicos convencionales, rompiendo barreras."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Nick Newell",
+    "image": "imagenes\\nick_newell.jpg",
+    "descripcion": "Luchador profesional de artes marciales mixtas con una extremidad menos, reconocido por su éxito en la competición profesional."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Hugo Sánchez Guerrero",
+    "image": "imagenes\\hugo_sanchez_guerrero.jpg",
+    "descripcion": "Futbolista que superó la pérdida parcial de una extremidad para competir profesionalmente y destacar en ligas regionales."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Joseph Merrick",
+    "image": "imagenes\\joseph_merrick.jpg",
+    "descripcion": "Conocido como el 'Hombre Elefante', actor que superó una severa deformidad física y logró reconocimiento."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Christy Brown",
+    "image": "imagenes\\christy_brown.jpg",
+    "descripcion": "Escritor y artista que padeció parálisis cerebral, conocido por su autobiografía 'Mi pie izquierdo'."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "José Feliciano",
+    "image": "imagenes\\jose_feliciano.jpg",
+    "descripcion": "Cantante y guitarrista ciego, superó su discapacidad para convertirse en una leyenda de la música latina."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Stephen Hawking",
+    "image": "imagenes\\stephen_hawking.jpg",
+    "descripcion": "Físico teórico que, a pesar de una enfermedad que le causó parálisis progresiva, realizó importantes contribuciones a la cosmología y la física."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "John Nash",
+    "image": "imagenes\\john_nash.jpg",
+    "descripcion": "Matemático que padeció esquizofrenia severa pero revolucionó la teoría de juegos y las matemáticas aplicadas."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad/es",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "Michael J. Mass",
+    "image": "imagenes\\michael_j_mass.jpg",
+    "descripcion": "Químico que superó las barreras de su discapacidad física para realizar aportes importantes en química analítica."
+  },
+
+
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "John Nash",
+    "image": "imagenes\\john_nash.jpg",
+    "descripcion": "Matemático que padeció esquizofrenia severa pero revolucionó la teoría de juegos y las matemáticas aplicadas."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Stephen Hawking",
+    "image": "imagenes\\stephen_hawking.jpg",
+    "descripcion": "Físico teórico que padeció ELA, una enfermedad degenerativa, pero realizó importantes contribuciones a la cosmología y física."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "August Kekulé",
+    "image": "imagenes\\august_kekule.jpg",
+    "descripcion": "Químico alemán que tuvo episodios de trastornos mentales y descubrió la estructura del benceno."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Lewis Carroll",
+    "image": "imagenes\\lewis_carroll.jpg",
+    "descripcion": "Escritor y matemático que enfrentó trastornos neurológicos y logró crear obras literarias icónicas."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Kurt Cobain",
+    "image": "imagenes\\kurt_cobain.jpg",
+    "descripcion": "Cantante y líder de Nirvana, luchó contra trastornos emocionales y dejó un legado en la música grunge."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Robin Williams",
+    "image": "imagenes\\robin_williams.jpg",
+    "descripcion": "Actor y comediante que enfrentó trastornos mentales, dejando una huella imborrable en el cine y la comedia."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Aaron Lennon",
+    "image": "imagenes\\aaron_lennon.jpg",
+    "descripcion": "Futbolista inglés que habló públicamente sobre su lucha contra trastornos mentales, continuando su carrera profesional."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Michael Phelps",
+    "image": "imagenes\\michael_phelps.jpg",
+    "descripcion": "Nadador olímpico que superó trastornos emocionales y de salud mental para convertirse en uno de los mejores atletas de la historia."
+  },
+  {
+    "genero": "Masculino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Trastorno",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Chad Mendes",
+    "image": "imagenes\\chad_mendes.jpg",
+    "descripcion": "Luchador profesional que ha hablado sobre superar desafíos mentales y emocionales mientras competía al más alto nivel."
   }
 ]
