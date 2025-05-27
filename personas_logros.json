@@ -593,6 +593,523 @@
     "name": "Micky Ward",
     "image": "imagenes\\micky_ward.jpg",
     "descripcion": "Boxeador estadounidense que enfrentó lesiones crónicas y problemas de salud durante su carrera, logrando reconocimiento y éxito en el ring."
-  }
+  },
 
+
+
+
+
+
+
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "Katherine Johnson",
+    "image": "imagenes\\katherine_johnson.jpg",
+    "descripcion": "Matemática brillante de la NASA cuya precisión y cálculos fueron cruciales para las misiones espaciales, enfrentando discriminación por género y raza."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Chien-Shiung Wu",
+    "image": "imagenes\\chien-shiung_wu.jpg",
+    "descripcion": "Física experimental pionera que realizó descubrimientos fundamentales, superando barreras de género en la comunidad científica."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "Marie Curie",
+    "image": "imagenes\\marie_curie.jpg",
+    "descripcion": "Pionera en radioactividad y primera mujer galardonada con un Premio Nobel, abrió camino para las científicas en un mundo dominado por hombres."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Billie Holiday",
+    "image": "imagenes\\billie_holiday.jpg",
+    "descripcion": "Cantante de jazz legendaria que enfrentó discriminación racial y de género, dejando una marca imborrable en la música y la cultura."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Virginia Woolf",
+    "image": "imagenes\\virginia_woolf.jpg",
+    "descripcion": "Escritora feminista influyente, reconocida por su estilo innovador y su defensa de la igualdad de género en la literatura."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Meryl Streep",
+    "image": "imagenes\\meryl_streep.jpg",
+    "descripcion": "Actriz icónica con múltiples premios que ha usado su plataforma para promover la igualdad de género y los derechos humanos."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Ronda Rousey",
+    "image": "imagenes\\ronda_rousey.jpg",
+    "descripcion": "Pionera en las artes marciales mixtas, rompió estereotipos de género y se convirtió en una de las figuras más influyentes del deporte."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Serena Williams",
+    "image": "imagenes\\serena_williams.jpg",
+    "descripcion": "Tenista dominante y defensora de la igualdad, que ha superado barreras raciales y de género para alcanzar la cima del deporte mundial."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Marta Vieira da Silva",
+    "image": "imagenes\\marta_vieira_da_silva.jpg",
+    "descripcion": "Futbolista brasileña reconocida mundialmente, defensora de la igualdad de género y voz prominente en el deporte femenino."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "Dorothy Vaughan",
+    "image": "imagenes\\dorothy_vaughan.jpg",
+    "descripcion": "Matemática afroamericana pionera en NASA que superó el racismo para contribuir en importantes programas espaciales."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "Marie Maynard Daly",
+    "image": "imagenes\\marie_maynard_daly.jpg",
+    "descripcion": "Primera afroamericana en obtener un doctorado en química, rompió barreras raciales y abrió camino para futuras científicas."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Alice Ball",
+    "image": "imagenes\\alice_ball.jpg",
+    "descripcion": "Química que desarrolló el 'Método Ball' para tratar la lepra, superando discriminación racial y de género en su época."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Nina Simone",
+    "image": "imagenes\\nina_simone.jpg",
+    "descripcion": "Cantante y activista que usó su música para luchar contra el racismo y la injusticia social en Estados Unidos."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Toni Morrison",
+    "image": "imagenes\\toni_morrison.jpg",
+    "descripcion": "Escritora afroamericana ganadora del Nobel, que abordó temas de raza, identidad y opresión en sus obras literarias."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Halle Berry",
+    "image": "imagenes\\halle_berry.jpg",
+    "descripcion": "Actriz afroamericana, primera en ganar un Oscar a la mejor actriz, que rompió barreras raciales en Hollywood."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Jackie Joyner-Kersee",
+    "image": "imagenes\\jackie_joyner_kersee.jpg",
+    "descripcion": "Atleta estadounidense considerada una de las mejores en pruebas combinadas, superando desafíos raciales y sociales."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Wilma Rudolph",
+    "image": "imagenes\\wilma_rudolph.jpg",
+    "descripcion": "Primera mujer afroamericana en ganar tres medallas de oro olímpicas, superando polio y racismo."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Racismo",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Megan Rapinoe",
+    "image": "imagenes\\megan_rapinoe.jpg",
+    "descripcion": "Futbolista estadounidense y activista por igualdad racial y de género, reconocida por su liderazgo dentro y fuera del campo."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Sally Ride",
+    "image": "imagenes\\sally_ride.jpg",
+    "descripcion": "Primera astronauta estadounidense y la primera mujer abiertamente lesbiana en la NASA, pionera en la exploración espacial."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "Mary Cartwright",
+    "image": "imagenes\\mary_cartwright.jpg",
+    "descripcion": "Matemática británica, pionera en la teoría del caos y una de las primeras mujeres en lograr reconocimiento en su campo."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "Rosalind Franklin",
+    "image": "imagenes\\rosalind_franklin.jpg",
+    "descripcion": "Científica clave en el descubrimiento de la estructura del ADN, enfrentó discriminación de género y dejó un legado duradero."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Audre Lorde",
+    "image": "imagenes\\audre_lorde.jpg",
+    "descripcion": "Poeta, escritora y activista feminista lesbiana, cuyo trabajo aborda la intersección de raza, género y sexualidad."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Lady Gaga",
+    "image": "imagenes\\lady_gaga.jpg",
+    "descripcion": "Cantante y actriz conocida por su talento y activismo en defensa de los derechos LGBTQ+ y la inclusión social."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Patricia Highsmith",
+    "image": "imagenes\\patricia_highsmith.jpg",
+    "descripcion": "Novelista estadounidense, pionera en la representación de relaciones lésbicas en la literatura con obras como 'Carol'."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Jodie Foster",
+    "image": "imagenes\\jodie_foster.jpg",
+    "descripcion": "Actriz y directora que ha hablado abiertamente sobre su orientación sexual y lucha por la igualdad."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Ronda Rousey",
+    "image": "imagenes\\ronda_rousey.jpg",
+    "descripcion": "Pionera en artes marciales mixtas, reconocida por romper barreras de género y por su influencia en el deporte."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Megan Rapinoe",
+    "image": "imagenes\\megan_rapinoe.jpg",
+    "descripcion": "Futbolista estadounidense y activista comprometida con los derechos LGBTQ+, conocida por su liderazgo y defensa de la igualdad."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Exclusión social",
+    "obstaculo2": "Genero/LGBTQIA+",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Marta Vieira da Silva",
+    "image": "imagenes\\marta_vieira_da_silva.jpg",
+    "descripcion": "Futbolista brasileña considerada una de las mejores de todos los tiempos. Ha sido seis veces ganadora del premio FIFA World Player y es la máxima goleadora en la historia de la Copa Mundial Femenina. Marta ha enfrentado discriminación de género y ha sido una defensora activa de la igualdad de género y los derechos LGBTQ+, utilizando su plataforma para visibilizar la diversidad y luchar por la inclusión en el deporte. Su liderazgo y talento han inspirado a generaciones de futbolistas y ha contribuido a transformar la percepción del fútbol femenino a nivel mundial."
+  },
+ {
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Ciencias",
+  "rol": "Fisico",
+  "name": "Lisa Randall",
+  "image": "imagenes\\lisa_randall.jpg",
+  "descripcion": "Lisa Randall es una física teórica estadounidense reconocida mundialmente por sus importantes contribuciones a la física de partículas y la cosmología. Es profesora en Harvard y autora de varios libros divulgativos. Ha hablado abiertamente sobre sus luchas con trastornos de ansiedad que ha manejado mientras mantiene una carrera científica activa. Su trabajo incluye teorías sobre dimensiones adicionales y materia oscura. Es una inspiración para mujeres en ciencias enfrentando desafíos personales y profesionales."
+},
+{
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Ciencias",
+  "rol": "Matemático",
+  "name": "Maryam Mirzakhani",
+  "image": "imagenes\\maryam_mirzakhani.jpg",
+  "descripcion": "Maryam Mirzakhani fue una matemática iraní de renombre mundial, primera mujer en ganar la Medalla Fields, el mayor honor en matemáticas. A pesar de haber sido diagnosticada con cáncer de mama, continuó investigando y enseñando hasta su fallecimiento en 2017. Su trabajo se centró en geometría y sistemas dinámicos, revolucionando varias áreas. Fue un ejemplo de fortaleza y dedicación, superando obstáculos médicos y culturales. Su legado inspira a mujeres científicas en todo el mundo."
+},
+{
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Ciencias",
+  "rol": "Químico",
+  "name": "Alice Ball",
+  "image": "imagenes\\alice_ball.jpg",
+  "descripcion": "Alice Ball fue una química afroamericana pionera que desarrolló el 'Método Ball', un tratamiento revolucionario para la lepra usando extractos de plantas. A pesar de su temprana muerte a los 24 años, su trabajo salvó muchas vidas y abrió camino para tratamientos médicos modernos. Fue la primera mujer y afroamericana en recibir reconocimiento científico en la Universidad de Hawai. Su carrera breve pero impactante muestra cómo superar barreras sociales y de salud. Hoy es recordada como una figura histórica en la química médica."
+},
+{
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Artes",
+  "rol": "Escritor",
+  "name": "Virginia Woolf",
+  "image": "imagenes\\virginia_woolf.jpg",
+  "descripcion": "Virginia Woolf fue una escritora británica clave del modernismo literario y defensora del feminismo. A lo largo de su vida, luchó con trastornos mentales, incluyendo episodios depresivos y bipolaridad. Su obra aborda temas complejos como la identidad y la sociedad, influyendo profundamente en la literatura del siglo XX. Su suicidio en 1941 marcó una trágica culminación de sus problemas de salud mental. Woolf es un ejemplo de genialidad literaria frente a la adversidad psicológica."
+},
+{
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Artes",
+  "rol": "Cantante",
+  "name": "Billie Holiday",
+  "image": "imagenes\\billie_holiday.jpg",
+  "descripcion": "Billie Holiday fue una icónica cantante de jazz estadounidense, conocida por su voz emotiva y estilo único. Enfrentó dificultades personales como la adicción a las drogas y problemas de salud mental, incluyendo depresión severa. Su música reflejaba la lucha y el dolor que vivió, convirtiéndola en una leyenda del jazz. A pesar de su trágica vida y muerte prematura, su legado musical sigue vigente. Holiday abrió puertas para artistas afroamericanos en la industria musical."
+},
+{
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Artes",
+  "rol": "Actor",
+  "name": "Carrie Fisher",
+  "image": "imagenes\\carrie_fisher.jpg",
+  "descripcion": "Carrie Fisher fue una actriz y escritora estadounidense famosa por su papel de Princesa Leia en Star Wars. Luchó abiertamente contra el trastorno bipolar y la adicción, convirtiéndose en una defensora de la salud mental y la reducción del estigma. Escribió varios libros autobiográficos donde abordó sus experiencias con la enfermedad mental. Fisher trabajó para normalizar el diálogo sobre trastornos psiquiátricos en Hollywood y la sociedad. Su legado va más allá de la actuación, impactando en la salud mental pública."
+},
+{
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Deportes",
+  "rol": "Atleta",
+  "name": "Serena Williams",
+  "image": "imagenes\\serena_williams.jpg",
+  "descripcion": "Serena Williams es una tenista estadounidense considerada una de las mejores de la historia. Ha hablado abiertamente sobre sus luchas con ansiedad y depresión, especialmente tras complicaciones de salud y presión mediática. A pesar de estos retos, ha mantenido un rendimiento excepcional y ha sido un ejemplo de resiliencia. Williams usa su plataforma para fomentar la importancia de la salud mental en el deporte. Su historia inspira a atletas a cuidar su bienestar psicológico."
+},
+{
+  "genero": "Femenino",
+  "obstaculo1": "Condicion medica",
+  "obstaculo2": "Trastorno",
+  "campo": "Deportes",
+  "rol": "Peleador",
+  "name": "Angela Lee",
+  "image": "imagenes\\angela_lee.png",
+  "descripcion": "Angela Lee es una peleadora de MMA y ex campeona mundial en ONE Championship. En 2017 sufrió un intento de suicidio que le causó una conmoción cerebral. Ha enfrentado trastornos como depresión y ansiedad. Tras la muerte de su hermana por suicidio, fundó FightStory, una organización que apoya la salud mental. Usa su plataforma para crear conciencia sobre la salud mental en el deporte."
+},
+
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Artes",
+    "rol": "Pintor",
+    "name": "Frida Lisa Carstensen Jersø",
+    "image": "imagenes\\frida_lisa_carstensen_jerso.jpg",
+    "descripcion": "Artista y fotógrafa que documenta sus enfermedades como una forma de arte radical. Tras un accidente que la dejó parapléjica, convirtió su obra en un testimonio de resistencia y visibilidad, explorando la interacción entre el cuerpo, la discapacidad y la identidad a través de la fotografía y el arte conceptual."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Artes",
+    "rol": "Cantante",
+    "name": "Selena Gomez",
+    "image": "imagenes\\selena_gomez.jpg",
+    "descripcion": "Cantante y actriz que ha hablado abiertamente sobre su lucha contra el lupus."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Toni Morrison",
+    "image": "imagenes\\toni_morrison.jpg",
+    "descripcion": "Escritora ganadora del Nobel que enfrentó problemas de salud y dejó un legado literario."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Ciencias",
+    "rol": "Matemático",
+    "name": "Ada Lovelace",
+    "image": "imagenes\\ada_lovelace.jpg",
+    "descripcion": "Pionera en programación, enfrentó problemas de salud a lo largo de su vida."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Ciencias",
+    "rol": "Físico",
+    "name": "Rosalind Franklin",
+    "image": "imagenes\\rosalind_franklin.jpg",
+    "descripcion": "Científica pionera en la investigación del ADN. Aunque su trabajo fue fundamental para el descubrimiento de la estructura de la doble hélice, enfrentó discriminación de género y murió joven debido a un cáncer de ovario, posiblemente relacionado con su exposición prolongada a la radiación en su investigación."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Ciencias",
+    "rol": "Químico",
+    "name": "Rosalind Franklin",
+    "image": "imagenes\\rosalind_franklin.jpg",
+    "descripcion": "'Madre' de la estructura del ADN, enfrentó problemas de salud relacionados con la radiación."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Venus Williams",
+    "image": "imagenes\\venus_williams.jpg",
+    "descripcion": "Tenista profesional que ha competido al más alto nivel mientras enfrenta el síndrome de Sjögren, una enfermedad autoinmune que causa fatiga extrema y dolor en las articulaciones. A pesar de los desafíos físicos, Venus ha seguido siendo una de las jugadoras más dominantes en la historia del tenis femenino. Ha ganado múltiples títulos de Grand Slam y ha sido una defensora activa de la igualdad de género en el deporte, inspirando a nuevas generaciones con su resiliencia y talento."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Hope Solo",
+    "image": "imagenes\\hope_solo.jpg",
+    "descripcion": "Portera de fútbol estadounidense considerada una de las mejores de la historia. A lo largo de su carrera, ha enfrentado problemas de salud, tanto físicos como emocionales, lo que ha representado un desafío adicional en su camino al éxito. Su determinación la llevó a ganar dos medallas de oro olímpicas y una Copa del Mundo con la selección de EE.UU. Además, ha sido una defensora del deporte femenino, alzando la voz sobre temas de igualdad salarial y derechos de las atletas."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "condicion medica",
+    "obstaculo2": "Enfermedades crónica",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Ronda Rousey",
+    "image": "imagenes\\ronda_rousey.jpg",
+    "descripcion": "Pionera en artes marciales mixtas y primera campeona femenina de UFC. A lo largo de su carrera, ha enfrentado lesiones y problemas de salud que han puesto a prueba su fortaleza mental y física. Su impacto en el deporte ha sido inmenso, ayudando a consolidar la presencia de las mujeres en las MMA y promoviendo la equidad en los deportes de contacto. Además, ha hablado abiertamente sobre sus luchas personales, incluyendo problemas de salud mental, creando conciencia y ayudando a normalizar el diálogo sobre la salud emocional de los atletas."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad\\es",
+    "campo": "Artes",
+    "rol": "Escritor",
+    "name": "Adriana Macías",
+    "image": "imagenes\\adriana_macias.jpg",
+    "descripcion": "Escritora mexicana que nació sin brazos y ha inspirado a muchos con sus libros y conferencias sobre superación personal. A lo largo de su vida, ha demostrado que la discapacidad no es un obstáculo para alcanzar el éxito, utilizando sus pies para escribir, realizar tareas cotidianas y compartir su mensaje de inclusión y resiliencia."
+  },
+  {
+    "genero": "Femenino ",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad\\es",
+    "campo": "Artes",
+    "rol": "Actor",
+    "name": "Viviana Rocco",
+    "image": "imagenes\\viviana_rocco.jpg",
+    "descripcion": "Artista trans cuya obra ha sido homenajeada en el Museo de Arte Transfemenino en CDMX, destacando su impacto en la representación de mujeres trans en el arte. A través de su trabajo, ha explorado temas de identidad, género y discapacidad, utilizando su experiencia personal para desafiar los estándares tradicionales de belleza y capacidad en la industria artística."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad\\es",
+    "campo": "Artes",
+    "rol": "Pintor",
+    "name": "Sarah Biffen",
+    "image": "imagenes\\sarah_biffen.jpg",
+    "descripcion": "Artista británica del siglo XVIII que nació sin brazos ni piernas debido a una enfermedad congénita. Aprendió a pintar sosteniendo el pincel con la boca y logró reconocimiento en la Real Academia de las Artes. A pesar de los prejuicios de su época, su talento la llevó a recibir encargos de la realeza y a convertirse en una figura influyente en el arte, demostrando que la creatividad y la determinación pueden superar cualquier barrera física."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad\\es",
+    "campo": "Deportes",
+    "rol": "Futbolista",
+    "name": "Lindsay Hilton",
+    "image": "imagenes\\lindsay_hilton.jpg",
+    "descripcion": "Atleta canadiense que nació sin extremidad\\es y ha practicado múltiples deportes, incluyendo fútbol, hockey y rugby. Se ha convertido en una inspiración en el mundo del fitness y la inclusión deportiva."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad\\es",
+    "campo": "Deportes",
+    "rol": "Atleta",
+    "name": "Aimee Mullins",
+    "image": "imagenes\\aimee_mullins.jpg",
+    "descripcion": "Atleta paralímpica que nació con una condición que afectaba sus piernas y se convirtió en una figura clave en el mundo del deporte adaptado. Ha competido en pruebas de velocidad y salto de longitud, rompiendo récords y redefiniendo los límites de la capacidad humana."
+  },
+  {
+    "genero": "Femenino",
+    "obstaculo1": "Condición médica",
+    "obstaculo2": "Sin extremidad\\es",
+    "campo": "Deportes",
+    "rol": "Peleador",
+    "name": "Nadia Lauricella",
+    "image": "imagenes\\nadia_lauricella.jpg",
+    "descripcion": "Nacida en Racalmuto, Sicilia, Italia, Nadia Lauricella llegó al mundo con una rara condición congénita que impidió el desarrollo de sus brazos y afectó parcialmente sus piernas. Desde pequeña, enfrentó desafíos físicos y sociales, pero nunca permitió que su discapacidad definiera sus límites. Con una actitud resiliente y determinada, ha utilizado su historia para inspirar a miles de personas en redes sociales, promoviendo la inclusión y la aceptación de la discapacidad. A pesar de no ser una peleadora profesional, ha demostrado una increíble fortaleza física y mental, convirtiéndose en un símbolo de superación. Su presencia en plataformas digitales ha permitido visibilizar la realidad de las personas con discapacidad, mostrando que la fuerza y la determinación pueden superar cualquier obstáculo. Nadia ha trabajado activamente en la concienciación sobre accesibilidad y derechos de las personas con discapacidad, utilizando su voz para generar cambios positivos en la sociedad."
+  }
 ]
