@@ -16,7 +16,7 @@
     "campo": "Deportes",
     "rol": "Atleta",
     "name": "Jesse Owens",
-    "image": "imagenes\\jesse_owens.jpg",
+    "image": "imagenes\\JesseOwens.jpg",
     "descripcion": "Atleta estadounidense que ganó cuatro medallas de oro en los Juegos Olímpicos de 1936, desafiando el racismo y la ideología"
   },
   {
@@ -113,7 +113,7 @@
     {
     "genero": "Masculino",
     "obstaculo1": "Exclusión social",
-    "obstaculo2": "Genero/LGBTQIA",
+    "obstaculo2": "Genero/LGBTQIA+",
     "campo": "Artes",
     "rol": "Escritor",
     "name": "James Baldwin",        
@@ -123,7 +123,7 @@
     {
     "genero": "Masculino",
     "obstaculo1": "Exclusión social",
-    "obstaculo2": "Genero/LGBTQIA",
+    "obstaculo2": "Genero/LGBTQIA+",
     "campo": "Ciencias",
     "rol": "Matemático",
     "name": "Alan Turing",
@@ -133,7 +133,7 @@
     {
     "genero": "Masculino",
     "obstaculo1": "Exclusión social",
-    "obstaculo2": "Genero/LGBTQIA",
+    "obstaculo2": "Genero/LGBTQIA+",
     "campo": "Ciencias",
     "rol": "Físico",
     "name": "Richard Feynman",
@@ -143,9 +143,9 @@
     {
     "genero": "Masculino",
     "obstaculo1": "Exclusión social",
-    "obstaculo2": "Genero/LGBTQIA",
+    "obstaculo2": "Genero/LGBTQIA+",
     "campo": "Ciencias",
-    "rol": "Quimico",
+    "rol": "Químico",
     "name": "Linus Pauling",
     "image": "imagenes\\linus_pauling.jpg",
     "descripcion": "Químico y activista estadounidense, conocido por sus investigaciones sobre la estructura molecular, enfrentó estigmas por su orientación sexual, pero su trabajo fue fundamental para la química moderna."
@@ -153,17 +153,17 @@
     {
     "genero": "Masculino",
     "obstaculo1": "Exclusión social",
-    "obstaculo2": "Genero/LGBTQIA",
+    "obstaculo2": "Genero/LGBTQIA+",
     "campo": "Deportes",
     "rol": "Atleta",
     "name": "Billie Jean King",
     "image": "imagenes\\billie_jean_king.jpg",
-    "descripcion": "Tenista estadounidense, activista por los derechos LGBT y la igualdad de género, enfrentó estigmas por su orientación sexual, pero se convirtió en un ícono del deporte."
+    "descripcion": "Tenista estadounidense, activista por los derechos LGBT y la igualdad de género, enfrentó estigmas por su orientación sexual, pero se convirtió en un ícono del deporte. Además, los problemas que tuvo mayormente fueron debido a que era transgénero."
   },
   {
   "genero": "Masculino",
   "obstaculo1": "Exclusión social",
-  "obstaculo2": "Genero/LGBTQIA",
+  "obstaculo2": "Genero/LGBTQIA+",
   "campo": "Deportes",
   "rol": "Futbolista",
   "name": "Justin Fashanu",
@@ -173,7 +173,7 @@
   {
   "genero": "Masculino",
   "obstaculo1": "Exclusión social",
-  "obstaculo2": "Genero/LGBTQIA",
+  "obstaculo2": "Genero/LGBTQIA+",
   "campo": "Deportes",
   "rol": "Peleador",
   "name": "Patricio Manuel",

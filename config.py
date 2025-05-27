@@ -1,6 +1,5 @@
-
 campos = {
-    "Ciencias": ["Matemático", "Fisico", "Quimico"],
+    "Ciencias": ["Matemático", "Físico", "Químico"],
     "Artes": ["Escritor", "Cantante", "Actor"],
     "Deportes": ["Futbolista", "Atleta", "Peleador"],
 }
@@ -10,17 +9,15 @@ sufrio = {
                          "Racismo", 
                          "Genero/LGBTQIA+", 
                          ],
-    "Condición médica": ["Enanismo", 
+    "Condición médica": ["Enfermedades Crónicas", 
                          "Trastorno",
                          "Sin extremidad/es"]
 }
 
 generos = ["Masculino", "Femenino"]
-
 respuestas={
-	#("Maya","Yucatán","Meseta","Pirámides"): ["Pertenece a ruta Puc"]
+	#("Masculino","Condición médica","Ciencias","Físico"): ["descripcion"]
 }
-
 
 #config.py
 obstaculo1: str = "" 
@@ -28,7 +25,6 @@ obstaculo2: str = ""
 campo: str = "" 
 rol: str = "" 
 genero: str = "" 
-
 
 # Para el resultado final
 nombre: str = ""
@@ -38,3 +34,4 @@ descripcion: str = ""
 ######
 contador=0
 adition_condition=""
+

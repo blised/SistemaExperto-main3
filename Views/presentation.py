@@ -28,7 +28,7 @@ class Main(tk.Frame):
         question_label = tk.Label(self, text="Bienvenido a la \"La guia de la inclusion\"",
                                   font=("Arial", 14, "bold"), bg='#D9C3A0')
         question_label.grid(row=1, column=0, columnspan=2, padx=10, pady=10, sticky="n")
-        question_label = tk.Label(self, text="Sistema diseñado para el la recolecion y almacenamiento de las personas sobresalientes en su campo apesar de dificultades sociales o medicas",
+        question_label = tk.Label(self, text="Este sistema experto está diseñado para proporcionar información acerca de personas que han enfrentado exclusión social o discapacidades, y que, a pesar de estas adversidades, han logrado destacar y alcanzar el éxito en sus respectivas áreas.",
                                   font=("Arial", 12), bg='#D9C3A0', wraplength=490)
         question_label.grid(row=2, column=0, columnspan=2, padx=10, pady=10, sticky="n")
         button = tk.Button(self, text="INICIAR", font=("Arial", 12), width=15, bg='#8b7d68',
