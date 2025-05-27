@@ -30,7 +30,7 @@ else:
         {
             "genero": "Femenino",
             "obstaculo1": "Condición médica",
-            "obstaculo2": "Sin extremidad/es",
+            "obstaculo2": "Enfermedades Crónica",
             "campo": "Deportes",
             "rol": "Atleta",
             "name": "Wilma Rudolph",

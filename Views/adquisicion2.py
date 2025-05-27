@@ -35,7 +35,7 @@ class Adquisicion2(tk.Frame):
         self.image_label.grid(row=0, column=0, columnspan=3, pady=10)
 
         # Título
-        title_label = tk.Label(self, text="Oops!!\nParece que no conocemos el sitio.",
+        title_label = tk.Label(self, text="Oops!!\nParece que no conocemos a la persona.",
                                font=("Arial", 16, "bold"), bg='#D9C3A0', fg="black", justify="left")
         title_label.grid(row=1, column=0, columnspan=3, sticky="w", padx=20, pady=10)
 
